@@ -1,2 +1,2 @@
 # threejs
-Learning ThreeJS
+Learning ThreeJS project
